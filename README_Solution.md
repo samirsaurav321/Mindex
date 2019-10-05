@@ -1,7 +1,6 @@
  For the compensation i have used the following Json schema:
 
-''' 
-
+```
 {
  "type":"Compensation",
   "properties": {
@@ -18,4 +17,4 @@
     }
   }
 }
-'''
+```
